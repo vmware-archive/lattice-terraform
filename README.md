@@ -1,5 +1,7 @@
 # Lattice Terraform templates
 
+**This project is now included in the [Lattice](https://github.com/pivotal-cf-experimental/lattice) project**
+
 This project contains several [Terraform](https://www.terraform.io/) templates to help you deploy
 [Lattice](https://github.com/pivotal-cf-experimental/lattice) on your choice of IaaS.
 

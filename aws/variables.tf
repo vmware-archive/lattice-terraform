@@ -37,15 +37,15 @@ variable "aws_subnet_cidr_block" {
 variable "aws_image" {
     description = "The name of the image to base the launched instances."
     default = {
-        ap-northeast-1 = "ami-cec3cbcf"
-        ap-southeast-1 = "ami-d16a4483"
-        ap-southeast-2 = "ami-974c27ad"
-        eu-central-1 = "ami-1a3b0b07"
-        eu-west-1 = "ami-88df64ff"
-        sa-east-1 = "ami-7d77c460"
-        us-east-1 = "ami-d8a6c9b0"
-        us-west-1 = "ami-71c8d534"
-        us-west-2 = "ami-992d7ea9"
+        ap-northeast-1 = "ami-ac11d4ac"
+        ap-southeast-1 = "ami-b05568e2"
+        ap-southeast-2 = "ami-d3611ce9"
+        eu-central-1 = "ami-0edae613"
+        eu-west-1 = "ami-3196f646"
+        sa-east-1 = "ami-41b2375c"
+        us-east-1 = "ami-e63b3e8e"
+        us-west-1 = "ami-717f9d35"
+        us-west-2 = "ami-67526757"
     }
 }
 

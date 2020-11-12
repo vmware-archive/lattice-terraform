@@ -1,3 +1,5 @@
+# lattice-terraform is no longer actively maintained by VMware.
+
 # Lattice Terraform templates
 
 **This project is now included in the [Lattice](https://github.com/pivotal-cf-experimental/lattice) project**
